@@ -1,32 +1,39 @@
 import pandas as pd
-import numpy as np
-import random
 
-# Expanded scenarios for a high-volume simulation
-scenarios = [
-    {"text": "Refunding this now or I am taking this to social media. Charged twice!", "type": "PR Risk"},
-    {"text": "I think I found a security vulnerability in your login portal.", "type": "Technical Bug"},
-    {"text": "Our legal team is reviewing our contract due to this service outage.", "type": "PR Risk"},
-    {"text": "How do I export my data to a CSV? I can't find the button.", "type": "Product Question"},
-    {"text": "We are ready to move from the Free plan to Enterprise. Send a quote.", "type": "Sales"},
-    {"text": "The app crashed again while I was mid-presentation. Infuriating.", "type": "Technical Bug"},
-    {"text": "Is there a discount for non-profit organizations?", "type": "Sales"},
-    {"text": "Just wanted to say the support team is doing a great job!", "type": "Praise"},
-    {"text": "The password reset link is expired. Help.", "type": "Access Issue"},
-    {"text": "Looking at competitors because your uptime is terrible lately.", "type": "Churn Risk"}
-]
+df = pd.read_csv('raw_support_tickets.csv')
 
-data = []
-for i in range(1000):
-    s = random.choice(scenarios)
-    # Add slight variation to the text to simulate real data
-    variation = random.choice(["", " PLEASE HELP.", " ASAP!", " Thanks.", " (Urgently)"])
-    data.append({
-        "ticket_id": f"REQ-{5000+i}",
-        "raw_text": s["text"] + variation,
-        "actual_category": s["type"]
-    })
+def simulate_ai_triage(text):
+    text = text.lower()
+    
+    # Priority Keywords for PR and Security
+    if any(word in text for word in ["legal", "social media", "vulnerability", "security", "sue"]):
+        category = "PR Risk"
+        sentiment = 1
+    elif any(word in text for word in ["crash", "error", "api", "500"]):
+        category = "Technical Bug"
+        sentiment = 2
+    elif "enterprise" in text or "quote" in text:
+        category = "Sales"
+        sentiment = 3
+    else:
+        category = "General"
+        sentiment = 3
+        
+    # Strategic Urgency Logic
+    # PR Risks are ALWAYS Critical. Technical bugs with low sentiment are High.
+    if category == "PR Risk":
+        priority = "CRITICAL"
+    elif category in ["Technical Bug", "Churn Risk"]:
+        priority = "High"
+    else:
+        priority = "Normal"
+    
+    return pd.Series([category, sentiment, priority])
 
-df = pd.DataFrame(data)
-df.to_csv('raw_support_tickets.csv', index=False)
-print(f"✅ Generated {len(df)} raw support tickets.")
+df[['detected_category', 'sentiment', 'priority']] = df['raw_text'].apply(simulate_ai_triage)
+df.to_csv('triaged_tickets_report.csv', index=False)
+
+print("--- AI TRIAGE VOLUME REPORT ---")
+print(df['priority'].value_counts())
+print("\n--- SAMPLE OF CRITICAL PR RISKS ---")
+print(df[df['priority'] == 'CRITICAL'][['raw_text', 'priority']].head())
