@@ -22,75 +22,54 @@ df = pd.read_csv("raw_support_tickets.csv")
 # ─────────────────────────────────────────────
 
 def classify_ticket(text: str) -> tuple:
-    """
-    Classifies a support ticket into category, sentiment score, and priority.
-
-    Sentiment scale:
-        1 = Aggressive / Critical threat
-        2 = Frustrated / Urgent
-        3 = Neutral / Informational
-        4 = Positive / Constructive
-        5 = Praise
-
-    Priority logic:
-        - PR Risk                         → CRITICAL (regardless of sentiment)
-        - Technical Bug + sentiment 1-2   → High
-        - Technical Bug + sentiment 3+    → Medium
-        - Churn Risk + Enterprise tier    → High
-        - Churn Risk + other tiers        → Medium
-        - Access Issue                    → Medium
-        - Sales                           → High (revenue opportunity)
-        - Product Question                → Normal
-        - Praise                          → Normal (log to feedback channel)
-    """
     t = text.lower()
 
-    # ── CATEGORY DETECTION ──
+    # ── PRAISE first -- prevent positive tickets misclassifying ──
+    if any(w in t for w in ["great job", "phenomenal", "above and beyond",
+                             "thank you", "fastest", "onboarding specialist",
+                             "doing a great job"]):
+        return "Praise", 5, "Normal"
+
+    # ── SALES second -- revenue signals before escalation logic ──
+    if any(w in t for w in ["enterprise", "quote", "seats", "upgrade",
+                             "annual contract", "budget approval", "non-profit",
+                             "discount", "compliance features", "move from",
+                             "ready to move", "add 50", "walk us through"]):
+        return "Sales", 3, "High"
+
+    # ── PR Risk ──
     if any(w in t for w in ["legal", "social media", "sue", "damages", "regulator",
                              "formal complaint", "public review", "board", "executive response",
-                             "filing", "contract", "seeking"]):
-        category  = "PR Risk"
-        sentiment = 1
+                             "filing", "contract", "seeking", "taking this to"]):
+        return "PR Risk", 1, "CRITICAL"
 
-    elif any(w in t for w in ["vulnerability", "security", "crash", "api", "500",
-                               "error", "broken", "fail", "bug", "not syncing",
-                               "webhook", "special characters", "sso"]):
-        category = "Technical Bug"
-        if any(w in t for w in ["infuriating", "again", "third", "entire organization", "down"]):
-            sentiment = 2
-        else:
-            sentiment = 3
+    # ── Technical Bug ──
+    if any(w in t for w in ["vulnerability", "security", "crash", "api", "500",
+                             "error", "broken", "fail", "not syncing",
+                             "webhook", "special characters", "sso", "login portal"]):
+        sentiment = 2 if any(w in t for w in ["infuriating", "again", "third",
+                                               "entire organization", "down"]) else 3
+        priority  = "High" if sentiment <= 2 else "Medium"
+        return "Technical Bug", sentiment, priority
 
-    elif any(w in t for w in ["competitor", "not sure we will renew", "evaluating other",
-                               "hard to justify", "contract is up", "stopped using",
-                               "re-evaluating", "roadmap"]):
-        category  = "Churn Risk"
-        sentiment = 2
+    # ── Churn Risk ──
+    if any(w in t for w in ["competitor", "not sure we will renew", "evaluating other",
+                             "hard to justify", "contract is up", "stopped using",
+                             "re-evaluating", "roadmap", "looking at competitors"]):
+        return "Churn Risk", 2, "High"
 
-    elif any(w in t for w in ["enterprise", "quote", "seats", "upgrade", "annual contract",
-                               "budget approval", "non-profit", "discount", "compliance"]):
-        category  = "Sales"
-        sentiment = 3
+    # ── Access Issue ──
+    if any(w in t for w in ["password", "reset", "locked", "invitation",
+                             "log in", "two-factor", "2fa", "access"]):
+        return "Access Issue", 2, "Medium"
 
-    elif any(w in t for w in ["password", "reset", "locked", "invitation", "log in",
-                               "two-factor", "2fa", "access"]):
-        category  = "Access Issue"
-        sentiment = 2
+    # ── Product Question ──
+    if any(w in t for w in ["how do i", "does the", "is it possible", "can i",
+                             "what is", "maximum", "schedule", "saml", "okta",
+                             "export", "permissions", "roles", "find the button"]):
+        return "Product Question", 3, "Normal"
 
-    elif any(w in t for w in ["how do i", "does the", "is it possible", "can i",
-                               "what is", "maximum", "schedule", "saml", "okta",
-                               "export", "permissions", "roles"]):
-        category  = "Product Question"
-        sentiment = 3
-
-    elif any(w in t for w in ["great job", "phenomenal", "above and beyond",
-                               "thank you", "fastest", "onboarding specialist"]):
-        category  = "Praise"
-        sentiment = 5
-
-    else:
-        category  = "General"
-        sentiment = 3
+    return "General", 3, "Normal"
 
     # ── PRIORITY LOGIC ──
     if category == "PR Risk":
