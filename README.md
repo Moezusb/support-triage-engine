@@ -1,4 +1,4 @@
-# 🤖 PROJECT SENTINEL: INTELLIGENT TRIAGE ENGINE
+# 🤖 INTELLIGENT TRIAGE ENGINE
 **Autonomous Sentiment Analysis & Crisis Escalation for High-Volume SaaS Support**
 
 ---
