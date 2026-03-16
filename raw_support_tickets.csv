@@ -1,0 +1,1001 @@
+ticket_id,customer_tier,raw_text,actual_category
+REQ-5000,Mid-Market,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5001,SMB,The search function returns incorrect results for any query with special characters. We need this resolved today.,Technical Bug
+REQ-5002,SMB,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5003,SMB,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5004,Mid-Market,Data is not syncing between the mobile app and the web dashboard. We need this resolved today.,Technical Bug
+REQ-5005,SMB,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5006,SMB,New team member has not received the invitation email after 24 hours. Our entire team is affected.,Access Issue
+REQ-5007,Mid-Market,The new dashboard update is exactly what we asked for. Thank you. This is blocking our team.,Praise
+REQ-5008,Mid-Market,Refunding this now or I am taking this to social media. Charged twice! ASAP please.,PR Risk
+REQ-5009,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. This is blocking our team.,Churn Risk
+REQ-5010,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5011,Enterprise,We have documented every outage and are preparing a case against your SLA. This is our third time contacting support about this.,PR Risk
+REQ-5012,Mid-Market,Your onboarding specialist went above and beyond for our team. This is blocking our team.,Praise
+REQ-5013,SMB,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5014,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to? This is urgent.,Sales
+REQ-5015,Mid-Market,Fastest support response I have ever received from any SaaS vendor. This is our third time contacting support about this.,Praise
+REQ-5016,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5017,Enterprise,Our contract is up in 60 days and we are not sure we will renew. This is urgent.,Churn Risk
+REQ-5018,SMB,We have documented every outage and are preparing a case against your SLA. Our entire team is affected.,PR Risk
+REQ-5019,SMB,Is there a discount available for non-profit organizations? ASAP please.,Sales
+REQ-5020,Mid-Market,Data is not syncing between the mobile app and the web dashboard. This is blocking our team.,Technical Bug
+REQ-5021,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5022,SMB,New team member has not received the invitation email after 24 hours. We need this resolved today.,Access Issue
+REQ-5023,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to? This is blocking our team.,Sales
+REQ-5024,Mid-Market,Two-factor authentication is failing for three members of my team. We need this resolved today.,Access Issue
+REQ-5025,Mid-Market,This is the third billing error this quarter. I am escalating to my board. We need this resolved today.,PR Risk
+REQ-5026,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. Our entire team is affected.,Churn Risk
+REQ-5027,Enterprise,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5028,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. We need this resolved today.,Churn Risk
+REQ-5029,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5030,Mid-Market,I think I found a security vulnerability in your login portal. We need this resolved today.,Technical Bug
+REQ-5031,Mid-Market,New team member has not received the invitation email after 24 hours. This is blocking our team.,Access Issue
+REQ-5032,SMB,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5033,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. ASAP please.,Technical Bug
+REQ-5034,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5035,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. ASAP please.,Technical Bug
+REQ-5036,SMB,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5037,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5038,Enterprise,I cannot log in after your maintenance window ended. Account appears locked. This is blocking our team.,Access Issue
+REQ-5039,Mid-Market,Refunding this now or I am taking this to social media. Charged twice! This is urgent.,PR Risk
+REQ-5040,Mid-Market,New team member has not received the invitation email after 24 hours. This is blocking our team.,Access Issue
+REQ-5041,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5042,SMB,API returning 500 errors on every POST request since this morning.,Technical Bug
+REQ-5043,Mid-Market,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5044,Enterprise,The password reset link expired before I could use it. Please resend. This is urgent.,Access Issue
+REQ-5045,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5046,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. This is our third time contacting support about this.,Technical Bug
+REQ-5047,Enterprise,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5048,Mid-Market,Your onboarding specialist went above and beyond for our team. This is our third time contacting support about this.,Praise
+REQ-5049,Enterprise,My CEO is cc'd on this email. We need an executive response today. This is our third time contacting support about this.,PR Risk
+REQ-5050,SMB,Three of our team members have stopped using the platform entirely. We need this resolved today.,Churn Risk
+REQ-5051,SMB,Just wanted to say the support team is doing a phenomenal job. This is urgent.,Praise
+REQ-5052,Enterprise,What is the maximum file size for document uploads? This is urgent.,Product Question
+REQ-5053,SMB,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5054,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5055,SMB,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5056,Mid-Market,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5057,SMB,SSO login is broken for our entire organization since the last update. This is blocking our team.,Technical Bug
+REQ-5058,Enterprise,Is there a discount available for non-profit organizations?,Sales
+REQ-5059,SMB,Is it possible to set up custom roles and permissions for our team? This is urgent.,Product Question
+REQ-5060,SMB,Your service caused us to miss a client deadline. We are seeking damages. This is our third time contacting support about this.,PR Risk
+REQ-5061,Mid-Market,Two-factor authentication is failing for three members of my team. We need this resolved today.,Access Issue
+REQ-5062,Mid-Market,Refunding this now or I am taking this to social media. Charged twice! This is urgent.,PR Risk
+REQ-5063,SMB,This is the third billing error this quarter. I am escalating to my board. We need this resolved today.,PR Risk
+REQ-5064,SMB,I am posting a public review about this experience unless resolved today. This is our third time contacting support about this.,PR Risk
+REQ-5065,Mid-Market,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5066,SMB,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5067,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5068,SMB,Can I schedule automated reports to be sent to my team every Monday? Our entire team is affected.,Product Question
+REQ-5069,SMB,We have documented every outage and are preparing a case against your SLA. Our entire team is affected.,PR Risk
+REQ-5070,Enterprise,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5071,SMB,This is the third billing error this quarter. I am escalating to my board. This is urgent.,PR Risk
+REQ-5072,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5073,SMB,SSO login is broken for our entire organization since the last update.,Technical Bug
+REQ-5074,SMB,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5075,SMB,The search function returns incorrect results for any query with special characters. This is urgent.,Technical Bug
+REQ-5076,SMB,Two-factor authentication is failing for three members of my team. This is urgent.,Access Issue
+REQ-5077,Enterprise,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5078,SMB,The search function returns incorrect results for any query with special characters. ASAP please.,Technical Bug
+REQ-5079,Enterprise,Can I schedule automated reports to be sent to my team every Monday? We need this resolved today.,Product Question
+REQ-5080,SMB,This is the third billing error this quarter. I am escalating to my board. ASAP please.,PR Risk
+REQ-5081,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to? This is blocking our team.,Sales
+REQ-5082,SMB,Does the platform support SAML-based SSO with Okta? This is blocking our team.,Product Question
+REQ-5083,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5084,Enterprise,Our contract is up in 60 days and we are not sure we will renew. We need this resolved today.,Churn Risk
+REQ-5085,SMB,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5086,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5087,Enterprise,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5088,SMB,I cannot log in after your maintenance window ended. Account appears locked. ASAP please.,Access Issue
+REQ-5089,Enterprise,The password reset link expired before I could use it. Please resend. This is urgent.,Access Issue
+REQ-5090,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5091,SMB,The search function returns incorrect results for any query with special characters. Our entire team is affected.,Technical Bug
+REQ-5092,Mid-Market,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5093,SMB,I am posting a public review about this experience unless resolved today.,PR Risk
+REQ-5094,Mid-Market,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5095,Mid-Market,Looking at competitors because your uptime has been terrible lately. We need this resolved today.,Churn Risk
+REQ-5096,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. We need this resolved today.,Churn Risk
+REQ-5097,Mid-Market,I think I found a security vulnerability in your login portal. This is blocking our team.,Technical Bug
+REQ-5098,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5099,SMB,Just wanted to say the support team is doing a phenomenal job. This is urgent.,Praise
+REQ-5100,SMB,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5101,Enterprise,We are ready to move from the Free plan to Enterprise. Please send a quote. This is urgent.,Sales
+REQ-5102,SMB,Is there a discount available for non-profit organizations? This is blocking our team.,Sales
+REQ-5103,Mid-Market,New team member has not received the invitation email after 24 hours. This is blocking our team.,Access Issue
+REQ-5104,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5105,Enterprise,Two-factor authentication is failing for three members of my team. This is blocking our team.,Access Issue
+REQ-5106,SMB,We have documented every outage and are preparing a case against your SLA. ASAP please.,PR Risk
+REQ-5107,SMB,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5108,SMB,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5109,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. We need this resolved today.,Churn Risk
+REQ-5110,Mid-Market,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5111,Mid-Market,This is the third billing error this quarter. I am escalating to my board. This is urgent.,PR Risk
+REQ-5112,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5113,SMB,I think I found a security vulnerability in your login portal. This is blocking our team.,Technical Bug
+REQ-5114,Mid-Market,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5115,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5116,SMB,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5117,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5118,SMB,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5119,Enterprise,Is there a discount available for non-profit organizations?,Sales
+REQ-5120,Mid-Market,Data is not syncing between the mobile app and the web dashboard. We need this resolved today.,Technical Bug
+REQ-5121,Enterprise,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5122,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5123,Enterprise,The search function returns incorrect results for any query with special characters. ASAP please.,Technical Bug
+REQ-5124,SMB,"The export function silently fails -- no error message, no file. Our entire team is affected.",Technical Bug
+REQ-5125,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. Our entire team is affected.,Churn Risk
+REQ-5126,SMB,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5127,Enterprise,We have documented every outage and are preparing a case against your SLA. Our entire team is affected.,PR Risk
+REQ-5128,SMB,Can I schedule automated reports to be sent to my team every Monday? We need this resolved today.,Product Question
+REQ-5129,SMB,Does the platform support SAML-based SSO with Okta? This is our third time contacting support about this.,Product Question
+REQ-5130,SMB,Webhook events stopped firing three hours ago. Our automation is down. We need this resolved today.,Technical Bug
+REQ-5131,SMB,SSO login is broken for our entire organization since the last update. Our entire team is affected.,Technical Bug
+REQ-5132,SMB,Your service caused us to miss a client deadline. We are seeking damages. This is blocking our team.,PR Risk
+REQ-5133,Mid-Market,The password reset link expired before I could use it. Please resend. Our entire team is affected.,Access Issue
+REQ-5134,Enterprise,New team member has not received the invitation email after 24 hours. This is our third time contacting support about this.,Access Issue
+REQ-5135,SMB,My CEO is cc'd on this email. We need an executive response today. This is blocking our team.,PR Risk
+REQ-5136,SMB,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5137,Mid-Market,How do I export my data to a CSV? I cannot find the button. This is our third time contacting support about this.,Product Question
+REQ-5138,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. Our entire team is affected.,Churn Risk
+REQ-5139,SMB,The password reset link expired before I could use it. Please resend. This is urgent.,Access Issue
+REQ-5140,SMB,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5141,Mid-Market,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5142,SMB,New team member has not received the invitation email after 24 hours. We need this resolved today.,Access Issue
+REQ-5143,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages. This is our third time contacting support about this.,PR Risk
+REQ-5144,Mid-Market,My CEO is cc'd on this email. We need an executive response today. This is blocking our team.,PR Risk
+REQ-5145,SMB,We have a budget approval for an annual contract. What are the next steps? This is our third time contacting support about this.,Sales
+REQ-5146,SMB,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5147,Mid-Market,We have a budget approval for an annual contract. What are the next steps? Our entire team is affected.,Sales
+REQ-5148,Mid-Market,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5149,Enterprise,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5150,SMB,Three of our team members have stopped using the platform entirely. This is blocking our team.,Churn Risk
+REQ-5151,Mid-Market,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5152,SMB,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5153,Mid-Market,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5154,SMB,API returning 500 errors on every POST request since this morning. This is urgent.,Technical Bug
+REQ-5155,SMB,Fastest support response I have ever received from any SaaS vendor. This is our third time contacting support about this.,Praise
+REQ-5156,SMB,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5157,SMB,SSO login is broken for our entire organization since the last update. ASAP please.,Technical Bug
+REQ-5158,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5159,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5160,Mid-Market,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5161,SMB,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5162,Enterprise,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5163,SMB,We have documented every outage and are preparing a case against your SLA. Our entire team is affected.,PR Risk
+REQ-5164,SMB,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5165,Mid-Market,The search function returns incorrect results for any query with special characters. This is urgent.,Technical Bug
+REQ-5166,Enterprise,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5167,Enterprise,Your onboarding specialist went above and beyond for our team. This is our third time contacting support about this.,Praise
+REQ-5168,Mid-Market,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5169,Enterprise,The password reset link expired before I could use it. Please resend. Our entire team is affected.,Access Issue
+REQ-5170,Enterprise,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5171,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5172,Mid-Market,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5173,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5174,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5175,SMB,Our contract is up in 60 days and we are not sure we will renew. We need this resolved today.,Churn Risk
+REQ-5176,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5177,SMB,The app crashed again while I was mid-presentation. Infuriating. We need this resolved today.,Technical Bug
+REQ-5178,SMB,The app crashed again while I was mid-presentation. Infuriating. We need this resolved today.,Technical Bug
+REQ-5179,Mid-Market,We have a budget approval for an annual contract. What are the next steps? This is our third time contacting support about this.,Sales
+REQ-5180,SMB,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5181,Enterprise,We have a budget approval for an annual contract. What are the next steps? Our entire team is affected.,Sales
+REQ-5182,Enterprise,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5183,Mid-Market,Just wanted to say the support team is doing a phenomenal job. Our entire team is affected.,Praise
+REQ-5184,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. This is blocking our team.,Sales
+REQ-5185,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5186,Enterprise,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5187,SMB,What is the maximum file size for document uploads? We need this resolved today.,Product Question
+REQ-5188,SMB,What is the maximum file size for document uploads?,Product Question
+REQ-5189,Enterprise,Can you walk us through the Enterprise security and compliance features? ASAP please.,Sales
+REQ-5190,Mid-Market,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5191,Mid-Market,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5192,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage. This is urgent.,PR Risk
+REQ-5193,SMB,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5194,SMB,Looking at competitors because your uptime has been terrible lately. Our entire team is affected.,Churn Risk
+REQ-5195,SMB,Does the platform support SAML-based SSO with Okta? This is our third time contacting support about this.,Product Question
+REQ-5196,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to? This is blocking our team.,Sales
+REQ-5197,Enterprise,We have a budget approval for an annual contract. What are the next steps? This is blocking our team.,Sales
+REQ-5198,Mid-Market,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5199,SMB,This is the third billing error this quarter. I am escalating to my board. This is our third time contacting support about this.,PR Risk
+REQ-5200,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5201,Enterprise,The search function returns incorrect results for any query with special characters. We need this resolved today.,Technical Bug
+REQ-5202,SMB,Fastest support response I have ever received from any SaaS vendor. ASAP please.,Praise
+REQ-5203,Mid-Market,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5204,Mid-Market,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5205,Mid-Market,Is there a discount available for non-profit organizations? ASAP please.,Sales
+REQ-5206,Enterprise,My CEO is cc'd on this email. We need an executive response today. ASAP please.,PR Risk
+REQ-5207,SMB,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5208,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5209,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to? Our entire team is affected.,Sales
+REQ-5210,Mid-Market,SSO login is broken for our entire organization since the last update. This is urgent.,Technical Bug
+REQ-5211,Mid-Market,The search function returns incorrect results for any query with special characters. This is urgent.,Technical Bug
+REQ-5212,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5213,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5214,SMB,How do I export my data to a CSV? I cannot find the button. This is our third time contacting support about this.,Product Question
+REQ-5215,Enterprise,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5216,SMB,What is the maximum file size for document uploads? This is urgent.,Product Question
+REQ-5217,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5218,Mid-Market,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5219,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5220,Mid-Market,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5221,SMB,The new dashboard update is exactly what we asked for. Thank you. This is blocking our team.,Praise
+REQ-5222,SMB,The search function returns incorrect results for any query with special characters. This is urgent.,Technical Bug
+REQ-5223,Mid-Market,Is it possible to set up custom roles and permissions for our team? We need this resolved today.,Product Question
+REQ-5224,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5225,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5226,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. ASAP please.,Churn Risk
+REQ-5227,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. This is blocking our team.,Sales
+REQ-5228,Mid-Market,Your onboarding specialist went above and beyond for our team. This is blocking our team.,Praise
+REQ-5229,SMB,I cannot log in after your maintenance window ended. Account appears locked. We need this resolved today.,Access Issue
+REQ-5230,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5231,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5232,Mid-Market,What is the maximum file size for document uploads?,Product Question
+REQ-5233,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is blocking our team.,PR Risk
+REQ-5234,Mid-Market,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5235,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5236,Enterprise,We are ready to move from the Free plan to Enterprise. Please send a quote. Our entire team is affected.,Sales
+REQ-5237,SMB,Two-factor authentication is failing for three members of my team. This is our third time contacting support about this.,Access Issue
+REQ-5238,SMB,Does the platform support SAML-based SSO with Okta? This is blocking our team.,Product Question
+REQ-5239,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. This is urgent.,Technical Bug
+REQ-5240,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is urgent.,Churn Risk
+REQ-5241,SMB,"The export function silently fails -- no error message, no file. We need this resolved today.",Technical Bug
+REQ-5242,Mid-Market,Can I schedule automated reports to be sent to my team every Monday? This is blocking our team.,Product Question
+REQ-5243,SMB,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5244,SMB,We have documented every outage and are preparing a case against your SLA. We need this resolved today.,PR Risk
+REQ-5245,SMB,Is there a discount available for non-profit organizations? ASAP please.,Sales
+REQ-5246,SMB,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5247,SMB,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5248,SMB,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5249,SMB,Refunding this now or I am taking this to social media. Charged twice!,PR Risk
+REQ-5250,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5251,Enterprise,This is the third billing error this quarter. I am escalating to my board. This is blocking our team.,PR Risk
+REQ-5252,Mid-Market,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5253,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5254,SMB,This is the third billing error this quarter. I am escalating to my board. ASAP please.,PR Risk
+REQ-5255,SMB,Just wanted to say the support team is doing a phenomenal job. This is blocking our team.,Praise
+REQ-5256,Mid-Market,The search function returns incorrect results for any query with special characters. This is urgent.,Technical Bug
+REQ-5257,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5258,Mid-Market,Fastest support response I have ever received from any SaaS vendor. We need this resolved today.,Praise
+REQ-5259,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5260,Enterprise,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5261,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5262,Enterprise,Fastest support response I have ever received from any SaaS vendor. This is urgent.,Praise
+REQ-5263,SMB,Data is not syncing between the mobile app and the web dashboard. We need this resolved today.,Technical Bug
+REQ-5264,SMB,I will be filing a formal complaint with the regulator if this is not addressed. ASAP please.,PR Risk
+REQ-5265,SMB,Two-factor authentication is failing for three members of my team. This is urgent.,Access Issue
+REQ-5266,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5267,SMB,Can I schedule automated reports to be sent to my team every Monday? This is blocking our team.,Product Question
+REQ-5268,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. This is blocking our team.,Churn Risk
+REQ-5269,Mid-Market,Does the platform support SAML-based SSO with Okta? This is urgent.,Product Question
+REQ-5270,Mid-Market,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5271,SMB,SSO login is broken for our entire organization since the last update. Our entire team is affected.,Technical Bug
+REQ-5272,Enterprise,Webhook events stopped firing three hours ago. Our automation is down. ASAP please.,Technical Bug
+REQ-5273,SMB,The app crashed again while I was mid-presentation. Infuriating. This is urgent.,Technical Bug
+REQ-5274,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5275,SMB,Just wanted to say the support team is doing a phenomenal job. This is blocking our team.,Praise
+REQ-5276,Mid-Market,Does the platform support SAML-based SSO with Okta? This is blocking our team.,Product Question
+REQ-5277,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5278,Mid-Market,Is it possible to set up custom roles and permissions for our team? This is urgent.,Product Question
+REQ-5279,Mid-Market,How do I export my data to a CSV? I cannot find the button. This is our third time contacting support about this.,Product Question
+REQ-5280,SMB,Our legal team is reviewing our contract due to this ongoing service outage. This is urgent.,PR Risk
+REQ-5281,Enterprise,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5282,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5283,Mid-Market,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5284,SMB,Is it possible to set up custom roles and permissions for our team? This is blocking our team.,Product Question
+REQ-5285,Mid-Market,The new dashboard update is exactly what we asked for. Thank you. Our entire team is affected.,Praise
+REQ-5286,Mid-Market,What is the maximum file size for document uploads? This is urgent.,Product Question
+REQ-5287,SMB,We have a budget approval for an annual contract. What are the next steps? This is our third time contacting support about this.,Sales
+REQ-5288,SMB,We have documented every outage and are preparing a case against your SLA. ASAP please.,PR Risk
+REQ-5289,Mid-Market,What is the maximum file size for document uploads? This is blocking our team.,Product Question
+REQ-5290,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5291,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is our third time contacting support about this.,PR Risk
+REQ-5292,Enterprise,My CEO is cc'd on this email. We need an executive response today. Our entire team is affected.,PR Risk
+REQ-5293,Mid-Market,Refunding this now or I am taking this to social media. Charged twice!,PR Risk
+REQ-5294,Mid-Market,This is the third billing error this quarter. I am escalating to my board. We need this resolved today.,PR Risk
+REQ-5295,Mid-Market,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5296,SMB,This is the third billing error this quarter. I am escalating to my board. We need this resolved today.,PR Risk
+REQ-5297,SMB,I think I found a security vulnerability in your login portal. This is blocking our team.,Technical Bug
+REQ-5298,SMB,What is the maximum file size for document uploads? This is urgent.,Product Question
+REQ-5299,Mid-Market,Your onboarding specialist went above and beyond for our team. We need this resolved today.,Praise
+REQ-5300,SMB,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5301,SMB,We have a budget approval for an annual contract. What are the next steps? This is urgent.,Sales
+REQ-5302,Enterprise,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5303,Enterprise,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5304,Mid-Market,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5305,Enterprise,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5306,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5307,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to? We need this resolved today.,Sales
+REQ-5308,Enterprise,The password reset link expired before I could use it. Please resend. ASAP please.,Access Issue
+REQ-5309,SMB,We are evaluating other vendors. Your pricing has become hard to justify. Our entire team is affected.,Churn Risk
+REQ-5310,Mid-Market,The password reset link expired before I could use it. Please resend. This is blocking our team.,Access Issue
+REQ-5311,Enterprise,Our contract is up in 60 days and we are not sure we will renew. This is blocking our team.,Churn Risk
+REQ-5312,Enterprise,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5313,Mid-Market,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5314,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5315,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5316,Mid-Market,SSO login is broken for our entire organization since the last update. We need this resolved today.,Technical Bug
+REQ-5317,SMB,Webhook events stopped firing three hours ago. Our automation is down. Our entire team is affected.,Technical Bug
+REQ-5318,SMB,Can I schedule automated reports to be sent to my team every Monday? Our entire team is affected.,Product Question
+REQ-5319,Enterprise,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5320,Enterprise,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5321,Enterprise,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5322,Mid-Market,Is it possible to set up custom roles and permissions for our team? This is urgent.,Product Question
+REQ-5323,Mid-Market,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5324,SMB,We have a budget approval for an annual contract. What are the next steps? ASAP please.,Sales
+REQ-5325,Mid-Market,Looking at competitors because your uptime has been terrible lately. This is our third time contacting support about this.,Churn Risk
+REQ-5326,Enterprise,Can you walk us through the Enterprise security and compliance features? This is urgent.,Sales
+REQ-5327,Enterprise,New team member has not received the invitation email after 24 hours. Our entire team is affected.,Access Issue
+REQ-5328,SMB,What is the maximum file size for document uploads?,Product Question
+REQ-5329,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages. We need this resolved today.,PR Risk
+REQ-5330,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. We need this resolved today.,Churn Risk
+REQ-5331,Mid-Market,How do I export my data to a CSV? I cannot find the button. This is urgent.,Product Question
+REQ-5332,SMB,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5333,SMB,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5334,SMB,This is the third billing error this quarter. I am escalating to my board. This is blocking our team.,PR Risk
+REQ-5335,SMB,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5336,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5337,SMB,"The export function silently fails -- no error message, no file. ASAP please.",Technical Bug
+REQ-5338,Mid-Market,Fastest support response I have ever received from any SaaS vendor. Our entire team is affected.,Praise
+REQ-5339,Enterprise,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5340,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. We need this resolved today.,Technical Bug
+REQ-5341,SMB,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5342,Enterprise,Refunding this now or I am taking this to social media. Charged twice!,PR Risk
+REQ-5343,SMB,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5344,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5345,Mid-Market,How do I export my data to a CSV? I cannot find the button. This is blocking our team.,Product Question
+REQ-5346,Enterprise,Three of our team members have stopped using the platform entirely. We need this resolved today.,Churn Risk
+REQ-5347,SMB,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5348,Mid-Market,Just wanted to say the support team is doing a phenomenal job. This is our third time contacting support about this.,Praise
+REQ-5349,Enterprise,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5350,SMB,Can you walk us through the Enterprise security and compliance features? This is blocking our team.,Sales
+REQ-5351,Mid-Market,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5352,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. We need this resolved today.,Churn Risk
+REQ-5353,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. We need this resolved today.,Sales
+REQ-5354,Mid-Market,Fastest support response I have ever received from any SaaS vendor. This is blocking our team.,Praise
+REQ-5355,Enterprise,I think I found a security vulnerability in your login portal. This is urgent.,Technical Bug
+REQ-5356,Mid-Market,I am posting a public review about this experience unless resolved today. This is blocking our team.,PR Risk
+REQ-5357,SMB,I am posting a public review about this experience unless resolved today.,PR Risk
+REQ-5358,Enterprise,I think I found a security vulnerability in your login portal. This is urgent.,Technical Bug
+REQ-5359,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. Our entire team is affected.,Churn Risk
+REQ-5360,Enterprise,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5361,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5362,SMB,We are evaluating other vendors. Your pricing has become hard to justify. ASAP please.,Churn Risk
+REQ-5363,Mid-Market,Can I schedule automated reports to be sent to my team every Monday? This is blocking our team.,Product Question
+REQ-5364,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5365,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages. ASAP please.,PR Risk
+REQ-5366,Enterprise,Webhook events stopped firing three hours ago. Our automation is down. Our entire team is affected.,Technical Bug
+REQ-5367,SMB,Two-factor authentication is failing for three members of my team. This is our third time contacting support about this.,Access Issue
+REQ-5368,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5369,SMB,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5370,SMB,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5371,Mid-Market,Is there a discount available for non-profit organizations? This is urgent.,Sales
+REQ-5372,Mid-Market,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5373,Enterprise,Two-factor authentication is failing for three members of my team. This is our third time contacting support about this.,Access Issue
+REQ-5374,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. This is urgent.,Technical Bug
+REQ-5375,Mid-Market,Does the platform support SAML-based SSO with Okta? This is blocking our team.,Product Question
+REQ-5376,SMB,My CEO is cc'd on this email. We need an executive response today. ASAP please.,PR Risk
+REQ-5377,Enterprise,I am posting a public review about this experience unless resolved today. This is blocking our team.,PR Risk
+REQ-5378,SMB,My CEO is cc'd on this email. We need an executive response today. This is urgent.,PR Risk
+REQ-5379,SMB,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5380,SMB,Is there a discount available for non-profit organizations?,Sales
+REQ-5381,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. Our entire team is affected.,Technical Bug
+REQ-5382,SMB,What is the maximum file size for document uploads?,Product Question
+REQ-5383,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5384,SMB,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5385,SMB,The search function returns incorrect results for any query with special characters. This is our third time contacting support about this.,Technical Bug
+REQ-5386,Enterprise,Is there a discount available for non-profit organizations?,Sales
+REQ-5387,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5388,Enterprise,SSO login is broken for our entire organization since the last update. This is urgent.,Technical Bug
+REQ-5389,Mid-Market,Does the platform support SAML-based SSO with Okta? This is urgent.,Product Question
+REQ-5390,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5391,Enterprise,Executive sponsor has left the company and the new one is re-evaluating all tools. We need this resolved today.,Churn Risk
+REQ-5392,SMB,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5393,Mid-Market,Two-factor authentication is failing for three members of my team. We need this resolved today.,Access Issue
+REQ-5394,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. This is our third time contacting support about this.,Technical Bug
+REQ-5395,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5396,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. ASAP please.,Technical Bug
+REQ-5397,Mid-Market,"The export function silently fails -- no error message, no file. This is urgent.",Technical Bug
+REQ-5398,SMB,Our legal team is reviewing our contract due to this ongoing service outage. ASAP please.,PR Risk
+REQ-5399,SMB,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5400,SMB,"The export function silently fails -- no error message, no file. This is blocking our team.",Technical Bug
+REQ-5401,SMB,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5402,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5403,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5404,SMB,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5405,Mid-Market,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5406,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked. This is blocking our team.,Access Issue
+REQ-5407,Enterprise,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5408,Mid-Market,Can you walk us through the Enterprise security and compliance features? Our entire team is affected.,Sales
+REQ-5409,SMB,What is the maximum file size for document uploads?,Product Question
+REQ-5410,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed. This is our third time contacting support about this.,PR Risk
+REQ-5411,SMB,Your service caused us to miss a client deadline. We are seeking damages. ASAP please.,PR Risk
+REQ-5412,Mid-Market,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5413,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5414,Mid-Market,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5415,Enterprise,We have documented every outage and are preparing a case against your SLA. This is urgent.,PR Risk
+REQ-5416,SMB,Two-factor authentication is failing for three members of my team. We need this resolved today.,Access Issue
+REQ-5417,SMB,Webhook events stopped firing three hours ago. Our automation is down. Our entire team is affected.,Technical Bug
+REQ-5418,SMB,Does the platform support SAML-based SSO with Okta? Our entire team is affected.,Product Question
+REQ-5419,SMB,We have documented every outage and are preparing a case against your SLA. This is our third time contacting support about this.,PR Risk
+REQ-5420,Enterprise,Looking at competitors because your uptime has been terrible lately. This is our third time contacting support about this.,Churn Risk
+REQ-5421,SMB,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5422,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is urgent.,PR Risk
+REQ-5423,Mid-Market,Is there a discount available for non-profit organizations? ASAP please.,Sales
+REQ-5424,Mid-Market,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5425,SMB,My CEO is cc'd on this email. We need an executive response today. Our entire team is affected.,PR Risk
+REQ-5426,Enterprise,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5427,SMB,Your onboarding specialist went above and beyond for our team. This is blocking our team.,Praise
+REQ-5428,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5429,Enterprise,Can I schedule automated reports to be sent to my team every Monday? We need this resolved today.,Product Question
+REQ-5430,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5431,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5432,Enterprise,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5433,Mid-Market,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5434,Mid-Market,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5435,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5436,SMB,Three of our team members have stopped using the platform entirely. This is our third time contacting support about this.,Churn Risk
+REQ-5437,Mid-Market,"The export function silently fails -- no error message, no file. ASAP please.",Technical Bug
+REQ-5438,SMB,Can you walk us through the Enterprise security and compliance features? This is urgent.,Sales
+REQ-5439,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage. This is urgent.,PR Risk
+REQ-5440,SMB,Data is not syncing between the mobile app and the web dashboard. Our entire team is affected.,Technical Bug
+REQ-5441,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. ASAP please.,Churn Risk
+REQ-5442,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5443,SMB,This is the third billing error this quarter. I am escalating to my board. ASAP please.,PR Risk
+REQ-5444,Mid-Market,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5445,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5446,SMB,What is the maximum file size for document uploads?,Product Question
+REQ-5447,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify. We need this resolved today.,Churn Risk
+REQ-5448,SMB,My CEO is cc'd on this email. We need an executive response today. This is our third time contacting support about this.,PR Risk
+REQ-5449,Mid-Market,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5450,SMB,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5451,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5452,Mid-Market,Three of our team members have stopped using the platform entirely. We need this resolved today.,Churn Risk
+REQ-5453,SMB,Looking at competitors because your uptime has been terrible lately. This is blocking our team.,Churn Risk
+REQ-5454,Mid-Market,Refunding this now or I am taking this to social media. Charged twice!,PR Risk
+REQ-5455,SMB,"The export function silently fails -- no error message, no file. ASAP please.",Technical Bug
+REQ-5456,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down.,Technical Bug
+REQ-5457,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. This is urgent.,Sales
+REQ-5458,SMB,I am posting a public review about this experience unless resolved today. Our entire team is affected.,PR Risk
+REQ-5459,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages. This is our third time contacting support about this.,PR Risk
+REQ-5460,Mid-Market,Just wanted to say the support team is doing a phenomenal job. Our entire team is affected.,Praise
+REQ-5461,SMB,We have a budget approval for an annual contract. What are the next steps? This is blocking our team.,Sales
+REQ-5462,SMB,Our legal team is reviewing our contract due to this ongoing service outage. This is our third time contacting support about this.,PR Risk
+REQ-5463,Enterprise,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5464,SMB,Is there a discount available for non-profit organizations? This is urgent.,Sales
+REQ-5465,SMB,We have documented every outage and are preparing a case against your SLA. We need this resolved today.,PR Risk
+REQ-5466,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5467,SMB,Three of our team members have stopped using the platform entirely. This is our third time contacting support about this.,Churn Risk
+REQ-5468,Mid-Market,API returning 500 errors on every POST request since this morning. This is urgent.,Technical Bug
+REQ-5469,Mid-Market,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5470,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. This is our third time contacting support about this.,Sales
+REQ-5471,SMB,The app crashed again while I was mid-presentation. Infuriating. We need this resolved today.,Technical Bug
+REQ-5472,SMB,Looking at competitors because your uptime has been terrible lately. We need this resolved today.,Churn Risk
+REQ-5473,SMB,The app crashed again while I was mid-presentation. Infuriating. This is urgent.,Technical Bug
+REQ-5474,Mid-Market,What is the maximum file size for document uploads?,Product Question
+REQ-5475,Mid-Market,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5476,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5477,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. ASAP please.,Churn Risk
+REQ-5478,Mid-Market,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5479,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5480,SMB,The password reset link expired before I could use it. Please resend. This is urgent.,Access Issue
+REQ-5481,SMB,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5482,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. This is urgent.,Churn Risk
+REQ-5483,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5484,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5485,Enterprise,I am posting a public review about this experience unless resolved today.,PR Risk
+REQ-5486,SMB,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5487,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5488,SMB,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5489,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5490,SMB,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5491,Mid-Market,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5492,SMB,Fastest support response I have ever received from any SaaS vendor. ASAP please.,Praise
+REQ-5493,SMB,Our contract is up in 60 days and we are not sure we will renew. Our entire team is affected.,Churn Risk
+REQ-5494,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5495,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5496,SMB,Two-factor authentication is failing for three members of my team. Our entire team is affected.,Access Issue
+REQ-5497,SMB,Your onboarding specialist went above and beyond for our team. ASAP please.,Praise
+REQ-5498,Enterprise,The new dashboard update is exactly what we asked for. Thank you. ASAP please.,Praise
+REQ-5499,SMB,Three of our team members have stopped using the platform entirely. Our entire team is affected.,Churn Risk
+REQ-5500,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed. This is blocking our team.,PR Risk
+REQ-5501,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. ASAP please.,Churn Risk
+REQ-5502,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked. This is urgent.,Access Issue
+REQ-5503,SMB,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5504,SMB,Is there a discount available for non-profit organizations? This is blocking our team.,Sales
+REQ-5505,Enterprise,Data is not syncing between the mobile app and the web dashboard. This is our third time contacting support about this.,Technical Bug
+REQ-5506,SMB,What is the maximum file size for document uploads? We need this resolved today.,Product Question
+REQ-5507,SMB,I think I found a security vulnerability in your login portal. ASAP please.,Technical Bug
+REQ-5508,Mid-Market,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5509,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5510,Mid-Market,Fastest support response I have ever received from any SaaS vendor. ASAP please.,Praise
+REQ-5511,SMB,The app crashed again while I was mid-presentation. Infuriating. ASAP please.,Technical Bug
+REQ-5512,Mid-Market,Fastest support response I have ever received from any SaaS vendor. ASAP please.,Praise
+REQ-5513,SMB,I am posting a public review about this experience unless resolved today. Our entire team is affected.,PR Risk
+REQ-5514,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5515,Mid-Market,Is it possible to set up custom roles and permissions for our team? We need this resolved today.,Product Question
+REQ-5516,Enterprise,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5517,Mid-Market,SSO login is broken for our entire organization since the last update. This is our third time contacting support about this.,Technical Bug
+REQ-5518,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5519,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. Our entire team is affected.,Churn Risk
+REQ-5520,Mid-Market,We have a budget approval for an annual contract. What are the next steps? ASAP please.,Sales
+REQ-5521,Enterprise,Your onboarding specialist went above and beyond for our team. ASAP please.,Praise
+REQ-5522,Enterprise,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5523,Mid-Market,Two-factor authentication is failing for three members of my team. This is urgent.,Access Issue
+REQ-5524,SMB,I cannot log in after your maintenance window ended. Account appears locked. This is urgent.,Access Issue
+REQ-5525,SMB,API returning 500 errors on every POST request since this morning. This is blocking our team.,Technical Bug
+REQ-5526,Enterprise,The password reset link expired before I could use it. Please resend. ASAP please.,Access Issue
+REQ-5527,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed. We need this resolved today.,PR Risk
+REQ-5528,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5529,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5530,SMB,We want to add 50 more seats to our current plan. Who should I talk to? This is urgent.,Sales
+REQ-5531,Enterprise,Our legal team is reviewing our contract due to this ongoing service outage. This is our third time contacting support about this.,PR Risk
+REQ-5532,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. ASAP please.,Churn Risk
+REQ-5533,Mid-Market,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5534,SMB,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5535,SMB,Refunding this now or I am taking this to social media. Charged twice! This is urgent.,PR Risk
+REQ-5536,Mid-Market,Data is not syncing between the mobile app and the web dashboard. ASAP please.,Technical Bug
+REQ-5537,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5538,SMB,Our contract is up in 60 days and we are not sure we will renew. We need this resolved today.,Churn Risk
+REQ-5539,SMB,This is the third billing error this quarter. I am escalating to my board. We need this resolved today.,PR Risk
+REQ-5540,SMB,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5541,Mid-Market,What is the maximum file size for document uploads?,Product Question
+REQ-5542,SMB,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5543,SMB,The app crashed again while I was mid-presentation. Infuriating. This is blocking our team.,Technical Bug
+REQ-5544,SMB,Fastest support response I have ever received from any SaaS vendor. This is our third time contacting support about this.,Praise
+REQ-5545,Mid-Market,We have a budget approval for an annual contract. What are the next steps? ASAP please.,Sales
+REQ-5546,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5547,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5548,SMB,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5549,Mid-Market,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5550,Mid-Market,Is there a discount available for non-profit organizations? This is blocking our team.,Sales
+REQ-5551,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. This is urgent.,Sales
+REQ-5552,Mid-Market,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5553,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools. ASAP please.,Churn Risk
+REQ-5554,Mid-Market,New team member has not received the invitation email after 24 hours. This is our third time contacting support about this.,Access Issue
+REQ-5555,Enterprise,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5556,Mid-Market,Can I schedule automated reports to be sent to my team every Monday? ASAP please.,Product Question
+REQ-5557,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5558,Mid-Market,SSO login is broken for our entire organization since the last update.,Technical Bug
+REQ-5559,Enterprise,I am posting a public review about this experience unless resolved today. This is our third time contacting support about this.,PR Risk
+REQ-5560,Enterprise,The password reset link expired before I could use it. Please resend. Our entire team is affected.,Access Issue
+REQ-5561,SMB,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5562,SMB,SSO login is broken for our entire organization since the last update. This is blocking our team.,Technical Bug
+REQ-5563,SMB,This is the third billing error this quarter. I am escalating to my board. This is our third time contacting support about this.,PR Risk
+REQ-5564,Enterprise,Is there a discount available for non-profit organizations? Our entire team is affected.,Sales
+REQ-5565,SMB,Is it possible to set up custom roles and permissions for our team? Our entire team is affected.,Product Question
+REQ-5566,Mid-Market,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5567,SMB,Is there a discount available for non-profit organizations?,Sales
+REQ-5568,SMB,I will be filing a formal complaint with the regulator if this is not addressed. Our entire team is affected.,PR Risk
+REQ-5569,Mid-Market,Your onboarding specialist went above and beyond for our team. ASAP please.,Praise
+REQ-5570,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is urgent.,Churn Risk
+REQ-5571,SMB,Our contract is up in 60 days and we are not sure we will renew. This is blocking our team.,Churn Risk
+REQ-5572,Mid-Market,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5573,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5574,Enterprise,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5575,SMB,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5576,Mid-Market,Can you walk us through the Enterprise security and compliance features? This is our third time contacting support about this.,Sales
+REQ-5577,SMB,API returning 500 errors on every POST request since this morning.,Technical Bug
+REQ-5578,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5579,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages. We need this resolved today.,PR Risk
+REQ-5580,SMB,Is there a discount available for non-profit organizations? This is our third time contacting support about this.,Sales
+REQ-5581,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5582,SMB,Is it possible to set up custom roles and permissions for our team? This is our third time contacting support about this.,Product Question
+REQ-5583,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5584,SMB,Is there a discount available for non-profit organizations? Our entire team is affected.,Sales
+REQ-5585,Enterprise,We are evaluating other vendors. Your pricing has become hard to justify. We need this resolved today.,Churn Risk
+REQ-5586,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage. ASAP please.,PR Risk
+REQ-5587,SMB,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5588,SMB,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5589,Mid-Market,Fastest support response I have ever received from any SaaS vendor. This is blocking our team.,Praise
+REQ-5590,SMB,What is the maximum file size for document uploads? We need this resolved today.,Product Question
+REQ-5591,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5592,Mid-Market,Is it possible to set up custom roles and permissions for our team? This is urgent.,Product Question
+REQ-5593,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is our third time contacting support about this.,Churn Risk
+REQ-5594,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5595,Mid-Market,Three of our team members have stopped using the platform entirely. ASAP please.,Churn Risk
+REQ-5596,Mid-Market,"The export function silently fails -- no error message, no file. This is our third time contacting support about this.",Technical Bug
+REQ-5597,Mid-Market,My CEO is cc'd on this email. We need an executive response today. We need this resolved today.,PR Risk
+REQ-5598,SMB,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5599,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5600,Mid-Market,Two-factor authentication is failing for three members of my team. ASAP please.,Access Issue
+REQ-5601,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is urgent.,PR Risk
+REQ-5602,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5603,SMB,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5604,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is urgent.,Churn Risk
+REQ-5605,SMB,I cannot log in after your maintenance window ended. Account appears locked. This is our third time contacting support about this.,Access Issue
+REQ-5606,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5607,Mid-Market,I think I found a security vulnerability in your login portal. Our entire team is affected.,Technical Bug
+REQ-5608,Mid-Market,This is the third billing error this quarter. I am escalating to my board. This is urgent.,PR Risk
+REQ-5609,SMB,Three of our team members have stopped using the platform entirely. ASAP please.,Churn Risk
+REQ-5610,Enterprise,Webhook events stopped firing three hours ago. Our automation is down. This is our third time contacting support about this.,Technical Bug
+REQ-5611,Enterprise,I cannot log in after your maintenance window ended. Account appears locked. This is blocking our team.,Access Issue
+REQ-5612,Mid-Market,Looking at competitors because your uptime has been terrible lately. We need this resolved today.,Churn Risk
+REQ-5613,SMB,Two-factor authentication is failing for three members of my team. This is blocking our team.,Access Issue
+REQ-5614,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5615,Mid-Market,The password reset link expired before I could use it. Please resend. ASAP please.,Access Issue
+REQ-5616,SMB,The new dashboard update is exactly what we asked for. Thank you. ASAP please.,Praise
+REQ-5617,SMB,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5618,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5619,SMB,Our legal team is reviewing our contract due to this ongoing service outage. This is urgent.,PR Risk
+REQ-5620,Mid-Market,Just wanted to say the support team is doing a phenomenal job. This is blocking our team.,Praise
+REQ-5621,Mid-Market,Just wanted to say the support team is doing a phenomenal job. Our entire team is affected.,Praise
+REQ-5622,Enterprise,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5623,Mid-Market,New team member has not received the invitation email after 24 hours. This is blocking our team.,Access Issue
+REQ-5624,SMB,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5625,Mid-Market,Can you walk us through the Enterprise security and compliance features? This is blocking our team.,Sales
+REQ-5626,SMB,This is the third billing error this quarter. I am escalating to my board. ASAP please.,PR Risk
+REQ-5627,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5628,SMB,Your onboarding specialist went above and beyond for our team. ASAP please.,Praise
+REQ-5629,Enterprise,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is our third time contacting support about this.,Churn Risk
+REQ-5630,Mid-Market,I think I found a security vulnerability in your login portal. This is our third time contacting support about this.,Technical Bug
+REQ-5631,SMB,We have documented every outage and are preparing a case against your SLA. This is our third time contacting support about this.,PR Risk
+REQ-5632,SMB,My CEO is cc'd on this email. We need an executive response today. This is blocking our team.,PR Risk
+REQ-5633,SMB,The app crashed again while I was mid-presentation. Infuriating. This is urgent.,Technical Bug
+REQ-5634,SMB,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5635,Enterprise,API returning 500 errors on every POST request since this morning. This is our third time contacting support about this.,Technical Bug
+REQ-5636,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. We need this resolved today.,Churn Risk
+REQ-5637,Mid-Market,What is the maximum file size for document uploads?,Product Question
+REQ-5638,SMB,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5639,Mid-Market,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5640,Mid-Market,The search function returns incorrect results for any query with special characters. We need this resolved today.,Technical Bug
+REQ-5641,SMB,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5642,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5643,SMB,Refunding this now or I am taking this to social media. Charged twice! This is urgent.,PR Risk
+REQ-5644,Mid-Market,Looking at competitors because your uptime has been terrible lately. This is our third time contacting support about this.,Churn Risk
+REQ-5645,SMB,Is there a discount available for non-profit organizations?,Sales
+REQ-5646,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5647,SMB,Two-factor authentication is failing for three members of my team. This is blocking our team.,Access Issue
+REQ-5648,Mid-Market,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5649,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5650,Enterprise,My CEO is cc'd on this email. We need an executive response today. ASAP please.,PR Risk
+REQ-5651,Mid-Market,Can you walk us through the Enterprise security and compliance features? This is our third time contacting support about this.,Sales
+REQ-5652,Enterprise,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5653,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. We need this resolved today.,Technical Bug
+REQ-5654,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5655,Mid-Market,I am posting a public review about this experience unless resolved today. ASAP please.,PR Risk
+REQ-5656,Mid-Market,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5657,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5658,SMB,Fastest support response I have ever received from any SaaS vendor. This is our third time contacting support about this.,Praise
+REQ-5659,Mid-Market,Fastest support response I have ever received from any SaaS vendor. This is blocking our team.,Praise
+REQ-5660,Mid-Market,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5661,Mid-Market,Just wanted to say the support team is doing a phenomenal job. This is blocking our team.,Praise
+REQ-5662,SMB,Our legal team is reviewing our contract due to this ongoing service outage. This is our third time contacting support about this.,PR Risk
+REQ-5663,Mid-Market,My CEO is cc'd on this email. We need an executive response today. Our entire team is affected.,PR Risk
+REQ-5664,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5665,SMB,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5666,Mid-Market,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5667,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5668,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to? ASAP please.,Sales
+REQ-5669,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5670,SMB,My CEO is cc'd on this email. We need an executive response today. We need this resolved today.,PR Risk
+REQ-5671,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. Our entire team is affected.,Churn Risk
+REQ-5672,Mid-Market,Data is not syncing between the mobile app and the web dashboard. Our entire team is affected.,Technical Bug
+REQ-5673,Enterprise,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5674,Mid-Market,This is the third billing error this quarter. I am escalating to my board. ASAP please.,PR Risk
+REQ-5675,Enterprise,Two-factor authentication is failing for three members of my team. This is our third time contacting support about this.,Access Issue
+REQ-5676,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5677,Enterprise,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5678,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5679,Mid-Market,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5680,Mid-Market,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5681,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. This is blocking our team.,Technical Bug
+REQ-5682,SMB,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5683,Enterprise,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5684,SMB,We are evaluating other vendors. Your pricing has become hard to justify. This is blocking our team.,Churn Risk
+REQ-5685,Enterprise,New team member has not received the invitation email after 24 hours. Our entire team is affected.,Access Issue
+REQ-5686,Enterprise,Can you walk us through the Enterprise security and compliance features? This is our third time contacting support about this.,Sales
+REQ-5687,SMB,The app crashed again while I was mid-presentation. Infuriating. This is blocking our team.,Technical Bug
+REQ-5688,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed. This is our third time contacting support about this.,PR Risk
+REQ-5689,SMB,Looking at competitors because your uptime has been terrible lately.,Churn Risk
+REQ-5690,Enterprise,New team member has not received the invitation email after 24 hours. This is blocking our team.,Access Issue
+REQ-5691,SMB,We are evaluating other vendors. Your pricing has become hard to justify. ASAP please.,Churn Risk
+REQ-5692,SMB,The new dashboard update is exactly what we asked for. Thank you. We need this resolved today.,Praise
+REQ-5693,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked. We need this resolved today.,Access Issue
+REQ-5694,SMB,This is the third billing error this quarter. I am escalating to my board. This is urgent.,PR Risk
+REQ-5695,Mid-Market,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5696,Enterprise,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5697,Mid-Market,API returning 500 errors on every POST request since this morning. Our entire team is affected.,Technical Bug
+REQ-5698,Mid-Market,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5699,SMB,Our contract is up in 60 days and we are not sure we will renew. This is our third time contacting support about this.,Churn Risk
+REQ-5700,Mid-Market,This is the third billing error this quarter. I am escalating to my board. This is urgent.,PR Risk
+REQ-5701,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down.,Technical Bug
+REQ-5702,SMB,I am posting a public review about this experience unless resolved today. ASAP please.,PR Risk
+REQ-5703,Enterprise,"The export function silently fails -- no error message, no file.",Technical Bug
+REQ-5704,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5705,SMB,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5706,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5707,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. This is blocking our team.,Churn Risk
+REQ-5708,Mid-Market,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5709,Mid-Market,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5710,SMB,SSO login is broken for our entire organization since the last update. This is urgent.,Technical Bug
+REQ-5711,Mid-Market,Does the platform support SAML-based SSO with Okta? This is blocking our team.,Product Question
+REQ-5712,Mid-Market,Refunding this now or I am taking this to social media. Charged twice! This is our third time contacting support about this.,PR Risk
+REQ-5713,SMB,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5714,Mid-Market,Can you walk us through the Enterprise security and compliance features? Our entire team is affected.,Sales
+REQ-5715,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed. Our entire team is affected.,PR Risk
+REQ-5716,Mid-Market,"The export function silently fails -- no error message, no file. ASAP please.",Technical Bug
+REQ-5717,SMB,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5718,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5719,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. This is blocking our team.,Churn Risk
+REQ-5720,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5721,SMB,Is there a discount available for non-profit organizations? We need this resolved today.,Sales
+REQ-5722,SMB,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5723,Enterprise,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5724,Mid-Market,Three of our team members have stopped using the platform entirely. This is urgent.,Churn Risk
+REQ-5725,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. This is our third time contacting support about this.,Churn Risk
+REQ-5726,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. ASAP please.,Technical Bug
+REQ-5727,SMB,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5728,Mid-Market,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5729,Mid-Market,Data is not syncing between the mobile app and the web dashboard. We need this resolved today.,Technical Bug
+REQ-5730,Mid-Market,Your onboarding specialist went above and beyond for our team. This is urgent.,Praise
+REQ-5731,SMB,I cannot log in after your maintenance window ended. Account appears locked. This is our third time contacting support about this.,Access Issue
+REQ-5732,SMB,Just wanted to say the support team is doing a phenomenal job. This is urgent.,Praise
+REQ-5733,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5734,SMB,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5735,SMB,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5736,Mid-Market,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5737,Mid-Market,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5738,Mid-Market,Does the platform support SAML-based SSO with Okta? ASAP please.,Product Question
+REQ-5739,SMB,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5740,Mid-Market,Does the platform support SAML-based SSO with Okta? This is blocking our team.,Product Question
+REQ-5741,Mid-Market,Can you walk us through the Enterprise security and compliance features? This is blocking our team.,Sales
+REQ-5742,SMB,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5743,Mid-Market,How do I export my data to a CSV? I cannot find the button. This is our third time contacting support about this.,Product Question
+REQ-5744,Enterprise,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5745,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5746,Mid-Market,We have a budget approval for an annual contract. What are the next steps? ASAP please.,Sales
+REQ-5747,Enterprise,We have a budget approval for an annual contract. What are the next steps? This is our third time contacting support about this.,Sales
+REQ-5748,Enterprise,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5749,SMB,We want to add 50 more seats to our current plan. Who should I talk to? Our entire team is affected.,Sales
+REQ-5750,Mid-Market,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5751,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. This is urgent.,Sales
+REQ-5752,Mid-Market,New team member has not received the invitation email after 24 hours. Our entire team is affected.,Access Issue
+REQ-5753,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down.,Technical Bug
+REQ-5754,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5755,Mid-Market,New team member has not received the invitation email after 24 hours. Our entire team is affected.,Access Issue
+REQ-5756,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. We need this resolved today.,Technical Bug
+REQ-5757,SMB,The app crashed again while I was mid-presentation. Infuriating. This is blocking our team.,Technical Bug
+REQ-5758,Mid-Market,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5759,Mid-Market,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5760,SMB,Our legal team is reviewing our contract due to this ongoing service outage. We need this resolved today.,PR Risk
+REQ-5761,SMB,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5762,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5763,SMB,I am posting a public review about this experience unless resolved today. Our entire team is affected.,PR Risk
+REQ-5764,Mid-Market,New team member has not received the invitation email after 24 hours. We need this resolved today.,Access Issue
+REQ-5765,Mid-Market,This is the third billing error this quarter. I am escalating to my board. ASAP please.,PR Risk
+REQ-5766,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. We need this resolved today.,Churn Risk
+REQ-5767,Mid-Market,Just wanted to say the support team is doing a phenomenal job. This is our third time contacting support about this.,Praise
+REQ-5768,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. We need this resolved today.,Churn Risk
+REQ-5769,SMB,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5770,SMB,Three of our team members have stopped using the platform entirely. This is blocking our team.,Churn Risk
+REQ-5771,Mid-Market,The new dashboard update is exactly what we asked for. Thank you. ASAP please.,Praise
+REQ-5772,Mid-Market,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5773,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. Our entire team is affected.,Sales
+REQ-5774,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. Our entire team is affected.,Churn Risk
+REQ-5775,SMB,Three of our team members have stopped using the platform entirely. Our entire team is affected.,Churn Risk
+REQ-5776,SMB,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5777,Enterprise,Webhook events stopped firing three hours ago. Our automation is down. This is blocking our team.,Technical Bug
+REQ-5778,Enterprise,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5779,Enterprise,Two-factor authentication is failing for three members of my team. Our entire team is affected.,Access Issue
+REQ-5780,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5781,SMB,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5782,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5783,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5784,SMB,SSO login is broken for our entire organization since the last update.,Technical Bug
+REQ-5785,SMB,Your onboarding specialist went above and beyond for our team.,Praise
+REQ-5786,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages. We need this resolved today.,PR Risk
+REQ-5787,SMB,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5788,SMB,Data is not syncing between the mobile app and the web dashboard. This is our third time contacting support about this.,Technical Bug
+REQ-5789,Enterprise,Refunding this now or I am taking this to social media. Charged twice! We need this resolved today.,PR Risk
+REQ-5790,Enterprise,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5791,SMB,Your onboarding specialist went above and beyond for our team. We need this resolved today.,Praise
+REQ-5792,SMB,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5793,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. Our entire team is affected.,Churn Risk
+REQ-5794,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. This is blocking our team.,Sales
+REQ-5795,Mid-Market,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5796,Enterprise,Can I schedule automated reports to be sent to my team every Monday? This is our third time contacting support about this.,Product Question
+REQ-5797,SMB,Is there a discount available for non-profit organizations? This is our third time contacting support about this.,Sales
+REQ-5798,Mid-Market,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5799,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage. This is blocking our team.,PR Risk
+REQ-5800,Mid-Market,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5801,SMB,Our contract is up in 60 days and we are not sure we will renew. ASAP please.,Churn Risk
+REQ-5802,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. Our entire team is affected.,Technical Bug
+REQ-5803,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5804,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. This is blocking our team.,Churn Risk
+REQ-5805,Mid-Market,What is the maximum file size for document uploads?,Product Question
+REQ-5806,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. ASAP please.,Sales
+REQ-5807,SMB,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5808,Mid-Market,New team member has not received the invitation email after 24 hours.,Access Issue
+REQ-5809,Mid-Market,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5810,Enterprise,We have a budget approval for an annual contract. What are the next steps? ASAP please.,Sales
+REQ-5811,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. This is urgent.,Technical Bug
+REQ-5812,Mid-Market,Refunding this now or I am taking this to social media. Charged twice! We need this resolved today.,PR Risk
+REQ-5813,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5814,Mid-Market,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5815,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5816,SMB,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5817,Enterprise,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5818,Mid-Market,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5819,SMB,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5820,SMB,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5821,Mid-Market,SSO login is broken for our entire organization since the last update.,Technical Bug
+REQ-5822,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. This is blocking our team.,Sales
+REQ-5823,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed. This is our third time contacting support about this.,PR Risk
+REQ-5824,SMB,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5825,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down. This is blocking our team.,Technical Bug
+REQ-5826,SMB,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5827,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to? Our entire team is affected.,Sales
+REQ-5828,Mid-Market,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5829,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5830,Enterprise,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5831,Enterprise,We have documented every outage and are preparing a case against your SLA.,PR Risk
+REQ-5832,Enterprise,Webhook events stopped firing three hours ago. Our automation is down. We need this resolved today.,Technical Bug
+REQ-5833,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5834,Enterprise,Your service caused us to miss a client deadline. We are seeking damages. This is blocking our team.,PR Risk
+REQ-5835,SMB,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5836,Enterprise,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5837,Mid-Market,The new dashboard update is exactly what we asked for. Thank you. ASAP please.,Praise
+REQ-5838,SMB,Can you walk us through the Enterprise security and compliance features? This is urgent.,Sales
+REQ-5839,Mid-Market,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5840,SMB,We want to add 50 more seats to our current plan. Who should I talk to?,Sales
+REQ-5841,Mid-Market,I think I found a security vulnerability in your login portal. This is urgent.,Technical Bug
+REQ-5842,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5843,SMB,Webhook events stopped firing three hours ago. Our automation is down. This is urgent.,Technical Bug
+REQ-5844,SMB,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5845,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5846,SMB,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5847,SMB,Two-factor authentication is failing for three members of my team. Our entire team is affected.,Access Issue
+REQ-5848,SMB,The new dashboard update is exactly what we asked for. Thank you. Our entire team is affected.,Praise
+REQ-5849,Mid-Market,Fastest support response I have ever received from any SaaS vendor. This is blocking our team.,Praise
+REQ-5850,SMB,Your service caused us to miss a client deadline. We are seeking damages. This is urgent.,PR Risk
+REQ-5851,Mid-Market,We want to add 50 more seats to our current plan. Who should I talk to? ASAP please.,Sales
+REQ-5852,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is our third time contacting support about this.,Churn Risk
+REQ-5853,SMB,Refunding this now or I am taking this to social media. Charged twice! This is blocking our team.,PR Risk
+REQ-5854,SMB,We are evaluating other vendors. Your pricing has become hard to justify. This is urgent.,Churn Risk
+REQ-5855,SMB,"The export function silently fails -- no error message, no file. Our entire team is affected.",Technical Bug
+REQ-5856,SMB,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5857,SMB,Our legal team is reviewing our contract due to this ongoing service outage. This is urgent.,PR Risk
+REQ-5858,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5859,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. Our entire team is affected.,Churn Risk
+REQ-5860,Mid-Market,We have a budget approval for an annual contract. What are the next steps? Our entire team is affected.,Sales
+REQ-5861,Mid-Market,Two-factor authentication is failing for three members of my team. We need this resolved today.,Access Issue
+REQ-5862,SMB,API returning 500 errors on every POST request since this morning. Our entire team is affected.,Technical Bug
+REQ-5863,SMB,We are evaluating other vendors. Your pricing has become hard to justify. This is blocking our team.,Churn Risk
+REQ-5864,SMB,The app crashed again while I was mid-presentation. Infuriating. This is urgent.,Technical Bug
+REQ-5865,SMB,We are evaluating other vendors. Your pricing has become hard to justify. Our entire team is affected.,Churn Risk
+REQ-5866,SMB,Your service caused us to miss a client deadline. We are seeking damages. This is our third time contacting support about this.,PR Risk
+REQ-5867,Mid-Market,The search function returns incorrect results for any query with special characters.,Technical Bug
+REQ-5868,SMB,SSO login is broken for our entire organization since the last update.,Technical Bug
+REQ-5869,Enterprise,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5870,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5871,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5872,SMB,Your onboarding specialist went above and beyond for our team. ASAP please.,Praise
+REQ-5873,Mid-Market,Your onboarding specialist went above and beyond for our team. We need this resolved today.,Praise
+REQ-5874,Enterprise,"The export function silently fails -- no error message, no file. Our entire team is affected.",Technical Bug
+REQ-5875,Enterprise,Our contract is up in 60 days and we are not sure we will renew.,Churn Risk
+REQ-5876,SMB,The search function returns incorrect results for any query with special characters. This is our third time contacting support about this.,Technical Bug
+REQ-5877,SMB,Can you walk us through the Enterprise security and compliance features? This is our third time contacting support about this.,Sales
+REQ-5878,Mid-Market,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5879,Mid-Market,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5880,Enterprise,Two-factor authentication is failing for three members of my team.,Access Issue
+REQ-5881,SMB,Does the platform support SAML-based SSO with Okta? We need this resolved today.,Product Question
+REQ-5882,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. This is urgent.,Churn Risk
+REQ-5883,SMB,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5884,SMB,Three of our team members have stopped using the platform entirely. We need this resolved today.,Churn Risk
+REQ-5885,Mid-Market,The app crashed again while I was mid-presentation. Infuriating. Our entire team is affected.,Technical Bug
+REQ-5886,Enterprise,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5887,SMB,Can I schedule automated reports to be sent to my team every Monday?,Product Question
+REQ-5888,Mid-Market,The password reset link expired before I could use it. Please resend. Our entire team is affected.,Access Issue
+REQ-5889,Mid-Market,Is there a discount available for non-profit organizations?,Sales
+REQ-5890,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed. This is urgent.,PR Risk
+REQ-5891,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. ASAP please.,Sales
+REQ-5892,Enterprise,I am posting a public review about this experience unless resolved today.,PR Risk
+REQ-5893,Enterprise,Can you walk us through the Enterprise security and compliance features? This is our third time contacting support about this.,Sales
+REQ-5894,SMB,How do I export my data to a CSV? I cannot find the button. This is urgent.,Product Question
+REQ-5895,Mid-Market,Looking at competitors because your uptime has been terrible lately. We need this resolved today.,Churn Risk
+REQ-5896,Mid-Market,I cannot log in after your maintenance window ended. Account appears locked.,Access Issue
+REQ-5897,SMB,Just wanted to say the support team is doing a phenomenal job. We need this resolved today.,Praise
+REQ-5898,Mid-Market,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5899,SMB,The new dashboard update is exactly what we asked for. Thank you.,Praise
+REQ-5900,SMB,Our legal team is reviewing our contract due to this ongoing service outage.,PR Risk
+REQ-5901,SMB,We have a budget approval for an annual contract. What are the next steps? This is urgent.,Sales
+REQ-5902,SMB,The app crashed again while I was mid-presentation. Infuriating. This is our third time contacting support about this.,Technical Bug
+REQ-5903,Mid-Market,Does the platform support SAML-based SSO with Okta? We need this resolved today.,Product Question
+REQ-5904,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5905,SMB,Is it possible to set up custom roles and permissions for our team? This is our third time contacting support about this.,Product Question
+REQ-5906,SMB,I am posting a public review about this experience unless resolved today. This is urgent.,PR Risk
+REQ-5907,Mid-Market,Executive sponsor has left the company and the new one is re-evaluating all tools. This is urgent.,Churn Risk
+REQ-5908,Mid-Market,API returning 500 errors on every POST request since this morning. We need this resolved today.,Technical Bug
+REQ-5909,SMB,Two-factor authentication is failing for three members of my team. ASAP please.,Access Issue
+REQ-5910,SMB,How do I export my data to a CSV? I cannot find the button.,Product Question
+REQ-5911,SMB,Can you walk us through the Enterprise security and compliance features? ASAP please.,Sales
+REQ-5912,SMB,How do I export my data to a CSV? I cannot find the button. Our entire team is affected.,Product Question
+REQ-5913,SMB,Fastest support response I have ever received from any SaaS vendor. We need this resolved today.,Praise
+REQ-5914,SMB,How do I export my data to a CSV? I cannot find the button. Our entire team is affected.,Product Question
+REQ-5915,SMB,Data is not syncing between the mobile app and the web dashboard. We need this resolved today.,Technical Bug
+REQ-5916,SMB,Your service caused us to miss a client deadline. We are seeking damages.,PR Risk
+REQ-5917,SMB,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5918,SMB,SSO login is broken for our entire organization since the last update.,Technical Bug
+REQ-5919,Enterprise,What is the maximum file size for document uploads?,Product Question
+REQ-5920,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5921,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5922,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5923,Mid-Market,Three of our team members have stopped using the platform entirely.,Churn Risk
+REQ-5924,SMB,I think I found a security vulnerability in your login portal. This is our third time contacting support about this.,Technical Bug
+REQ-5925,SMB,Three of our team members have stopped using the platform entirely. This is urgent.,Churn Risk
+REQ-5926,SMB,The app crashed again while I was mid-presentation. Infuriating.,Technical Bug
+REQ-5927,Mid-Market,Your onboarding specialist went above and beyond for our team. ASAP please.,Praise
+REQ-5928,Mid-Market,How do I export my data to a CSV? I cannot find the button. ASAP please.,Product Question
+REQ-5929,Mid-Market,New team member has not received the invitation email after 24 hours. ASAP please.,Access Issue
+REQ-5930,SMB,What is the maximum file size for document uploads? This is blocking our team.,Product Question
+REQ-5931,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped.,Churn Risk
+REQ-5932,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote.,Sales
+REQ-5933,Enterprise,SSO login is broken for our entire organization since the last update. Our entire team is affected.,Technical Bug
+REQ-5934,SMB,The password reset link expired before I could use it. Please resend.,Access Issue
+REQ-5935,Mid-Market,What is the maximum file size for document uploads? Our entire team is affected.,Product Question
+REQ-5936,SMB,Is it possible to set up custom roles and permissions for our team?,Product Question
+REQ-5937,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5938,SMB,Webhook events stopped firing three hours ago. Our automation is down. This is blocking our team.,Technical Bug
+REQ-5939,SMB,Webhook events stopped firing three hours ago. Our automation is down.,Technical Bug
+REQ-5940,Mid-Market,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5941,Mid-Market,What is the maximum file size for document uploads?,Product Question
+REQ-5942,SMB,Just wanted to say the support team is doing a phenomenal job. This is urgent.,Praise
+REQ-5943,Mid-Market,New team member has not received the invitation email after 24 hours. This is our third time contacting support about this.,Access Issue
+REQ-5944,Mid-Market,I am posting a public review about this experience unless resolved today.,PR Risk
+REQ-5945,Mid-Market,How do I export my data to a CSV? I cannot find the button. This is urgent.,Product Question
+REQ-5946,Enterprise,The search function returns incorrect results for any query with special characters. This is blocking our team.,Technical Bug
+REQ-5947,SMB,I am posting a public review about this experience unless resolved today.,PR Risk
+REQ-5948,Enterprise,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5949,SMB,My CEO is cc'd on this email. We need an executive response today. We need this resolved today.,PR Risk
+REQ-5950,Enterprise,The new dashboard update is exactly what we asked for. Thank you. This is our third time contacting support about this.,Praise
+REQ-5951,SMB,Fastest support response I have ever received from any SaaS vendor. Our entire team is affected.,Praise
+REQ-5952,Mid-Market,I think I found a security vulnerability in your login portal. We need this resolved today.,Technical Bug
+REQ-5953,SMB,This is the third billing error this quarter. I am escalating to my board.,PR Risk
+REQ-5954,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5955,SMB,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. This is blocking our team.,Churn Risk
+REQ-5956,Enterprise,We are evaluating other vendors. Your pricing has become hard to justify.,Churn Risk
+REQ-5957,Enterprise,We have documented every outage and are preparing a case against your SLA. ASAP please.,PR Risk
+REQ-5958,Enterprise,We have a budget approval for an annual contract. What are the next steps?,Sales
+REQ-5959,SMB,I think I found a security vulnerability in your login portal. ASAP please.,Technical Bug
+REQ-5960,Mid-Market,We expected the roadmap feature by Q2. It is now Q4 and nothing has shipped. We need this resolved today.,Churn Risk
+REQ-5961,SMB,Can you walk us through the Enterprise security and compliance features?,Sales
+REQ-5962,SMB,We are evaluating other vendors. Your pricing has become hard to justify. Our entire team is affected.,Churn Risk
+REQ-5963,SMB,Your service caused us to miss a client deadline. We are seeking damages. This is urgent.,PR Risk
+REQ-5964,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify. This is our third time contacting support about this.,Churn Risk
+REQ-5965,Mid-Market,What is the maximum file size for document uploads? This is our third time contacting support about this.,Product Question
+REQ-5966,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed.,PR Risk
+REQ-5967,Mid-Market,We are ready to move from the Free plan to Enterprise. Please send a quote. This is urgent.,Sales
+REQ-5968,Enterprise,Can you walk us through the Enterprise security and compliance features? We need this resolved today.,Sales
+REQ-5969,SMB,Data is not syncing between the mobile app and the web dashboard.,Technical Bug
+REQ-5970,Mid-Market,Our contract is up in 60 days and we are not sure we will renew. This is our third time contacting support about this.,Churn Risk
+REQ-5971,Enterprise,I think I found a security vulnerability in your login portal.,Technical Bug
+REQ-5972,SMB,Executive sponsor has left the company and the new one is re-evaluating all tools.,Churn Risk
+REQ-5973,SMB,Does the platform support SAML-based SSO with Okta?,Product Question
+REQ-5974,Mid-Market,API returning 500 errors on every POST request since this morning.,Technical Bug
+REQ-5975,Enterprise,How do I export my data to a CSV? I cannot find the button. We need this resolved today.,Product Question
+REQ-5976,SMB,I think I found a security vulnerability in your login portal. This is blocking our team.,Technical Bug
+REQ-5977,Mid-Market,We are evaluating other vendors. Your pricing has become hard to justify. This is urgent.,Churn Risk
+REQ-5978,SMB,Looking at competitors because your uptime has been terrible lately. This is urgent.,Churn Risk
+REQ-5979,SMB,API returning 500 errors on every POST request since this morning.,Technical Bug
+REQ-5980,SMB,Three of our team members have stopped using the platform entirely. We need this resolved today.,Churn Risk
+REQ-5981,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is urgent.,PR Risk
+REQ-5982,SMB,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5983,Mid-Market,Webhook events stopped firing three hours ago. Our automation is down.,Technical Bug
+REQ-5984,Mid-Market,Refunding this now or I am taking this to social media. Charged twice!,PR Risk
+REQ-5985,Mid-Market,My CEO is cc'd on this email. We need an executive response today. Our entire team is affected.,PR Risk
+REQ-5986,SMB,Can I schedule automated reports to be sent to my team every Monday? This is urgent.,Product Question
+REQ-5987,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is urgent.,PR Risk
+REQ-5988,SMB,Is there a discount available for non-profit organizations? This is blocking our team.,Sales
+REQ-5989,SMB,I think I found a security vulnerability in your login portal. ASAP please.,Technical Bug
+REQ-5990,Mid-Market,Just wanted to say the support team is doing a phenomenal job.,Praise
+REQ-5991,SMB,API returning 500 errors on every POST request since this morning.,Technical Bug
+REQ-5992,Enterprise,Data is not syncing between the mobile app and the web dashboard. ASAP please.,Technical Bug
+REQ-5993,Enterprise,Fastest support response I have ever received from any SaaS vendor.,Praise
+REQ-5994,SMB,I will be filing a formal complaint with the regulator if this is not addressed. This is urgent.,PR Risk
+REQ-5995,Mid-Market,My CEO is cc'd on this email. We need an executive response today.,PR Risk
+REQ-5996,SMB,We are ready to move from the Free plan to Enterprise. Please send a quote. Our entire team is affected.,Sales
+REQ-5997,SMB,I think I found a security vulnerability in your login portal. We need this resolved today.,Technical Bug
+REQ-5998,Mid-Market,I will be filing a formal complaint with the regulator if this is not addressed. We need this resolved today.,PR Risk
+REQ-5999,SMB,Your onboarding specialist went above and beyond for our team.,Praise
