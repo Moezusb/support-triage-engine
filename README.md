@@ -1,6 +1,8 @@
 # Support Triage Engine
 
-**Rule-based AI classification pipeline for high-volume enterprise support**
+**Rule-based classification prototype for high-volume enterprise support**
+
+> **Read this first.** This is a keyword-rule prototype, not a machine learning or LLM model. The 87.2% accuracy below is measured on 1,000 synthetic tickets generated from my own templates in `generate_tickets.py`, so it shows the rules agree with the data they were written against. It is not evidence of performance on real tickets. For the production-style version of this idea, see the [Enterprise Triage Scorer](https://github.com/Moezusb/enterprise-triage-scorer).
 
 ---
 
@@ -19,8 +21,8 @@ A two-stage Python pipeline that ingests raw support ticket text, classifies eac
 **Input:** 1,000 synthetic enterprise support tickets across 7 categories
 
 **Output:**
-- `triaged_tickets_report.csv` -- every ticket with detected category, sentiment score, and priority
-- `outputs/triage_analysis.png` -- three-panel visual summary of pipeline performance
+- `triaged_tickets_report.csv`, every ticket with detected category, sentiment score, and priority
+- `outputs/triage_analysis.png`, three-panel visual summary of pipeline performance
 
 **Categories detected:** PR Risk, Technical Bug, Churn Risk, Sales, Access Issue, Product Question, Praise
 
@@ -61,7 +63,7 @@ raw_support_tickets.csv
 
 ![Triage Analysis](outputs/triage_analysis.png)
 
-**Overall accuracy: 87.2%** across 1,000 tickets
+**Overall accuracy: 87.2%** across 1,000 synthetic tickets (see the note at the top)
 
 | Category | Accuracy | Priority Assigned |
 |---|---|---|
@@ -98,7 +100,7 @@ python generate_tickets.py   # generates raw_support_tickets.csv
 python triage_engine.py      # runs classification, outputs report + chart
 ```
 
-No local setup required -- runs directly in [Google Colab](https://colab.research.google.com) or GitHub Codespaces.
+No local setup required, runs directly in [Google Colab](https://colab.research.google.com) or GitHub Codespaces.
 
 ---
 
@@ -108,7 +110,7 @@ No local setup required -- runs directly in [Google Colab](https://colab.researc
 The classification logic is deterministic, auditable, and requires no API dependency. This makes the pipeline reproducible and suitable for CI/CD environments. In production, the keyword layer would be replaced or augmented by a fine-tuned classifier or a Claude API call with a structured extraction prompt.
 
 **Why does classification order matter?**
-Keyword-based systems are vulnerable to false positives when urgency modifiers overlap with escalation signals. By evaluating Praise and Sales first, we prevent benign tickets from being misclassified as Critical. The ordered chain mirrors how a trained human analyst would triage -- context before keywords.
+Keyword-based systems are vulnerable to false positives when urgency modifiers overlap with escalation signals. By evaluating Praise and Sales first, we prevent benign tickets from being misclassified as Critical. The ordered chain mirrors how a trained human analyst would triage, context before keywords.
 
 **Why include sentiment scoring?**
 Sentiment score directly drives priority within the Technical Bug category. A frustrated user reporting a crash ("Infuriating", "again") receives a High priority escalation. The same crash reported neutrally ("The export function fails silently") routes to Medium. Same category, different urgency, different treatment.
@@ -117,10 +119,10 @@ Sentiment score directly drives priority within the Technical Bug category. A fr
 
 ## [ 08. WHAT I WOULD BUILD NEXT ]
 
-- **LLM integration:** Replace keyword detection with a Claude API call for free-text classification. The pipeline architecture is already structured for this -- it is a single function swap.
-- **Tier-weighted priority:** Enterprise accounts with Churn Risk signals should escalate faster than SMB. The `customer_tier` column is already in the dataset -- the logic just needs to reference it.
+- **LLM integration:** Replace keyword detection with a Claude API call for free-text classification. The pipeline architecture is already structured for this, it is a single function swap.
+- **Tier-weighted priority:** Enterprise accounts with Churn Risk signals should escalate faster than SMB. The `customer_tier` column is already in the dataset, the logic just needs to reference it.
 - **Real-time webhook trigger:** Connect to Intercom or Zendesk via webhook so tickets are classified at the moment of creation, not in batch.
-- **Feedback loop:** Log misclassified tickets for periodic review and use them to expand the keyword bank -- a lightweight continuous improvement cycle.
+- **Feedback loop:** Log misclassified tickets for periodic review and use them to expand the keyword bank, a lightweight continuous improvement cycle.
 
 ---
 
